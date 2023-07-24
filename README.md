@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Gorka
 #### Web Developer
-![Web Developer]([https://res.cloudinary.com/dgqqot40q/image/upload/v1689152492/banner_kpjczg.png](https://res.cloudinary.com/dgqqot40q/image/upload/v1690193495/Black_Minimal_Motivation_Quote_LinkedIn_Banner_xiahaz.png))
+![Web Developer](https://res.cloudinary.com/dgqqot40q/image/upload/v1690193495/Black_Minimal_Motivation_Quote_LinkedIn_Banner_xiahaz.png)
 
 Full Stack Web Developer with strong skills in Ruby on Rails and JavaScript.
 Always learning something new and happy to collaborate.
