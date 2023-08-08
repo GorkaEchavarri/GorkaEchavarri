@@ -1,5 +1,5 @@
-### Hi there 👋, my name is Gorka
-#### Web Developer
+### Hi there 👋, I'm Gorka
+
 ![Web Developer](https://res.cloudinary.com/dgqqot40q/image/upload/v1690193495/Black_Minimal_Motivation_Quote_LinkedIn_Banner_xiahaz.png)
 
 Full Stack Web Developer with strong skills in Ruby on Rails and JavaScript.
